@@ -24,8 +24,8 @@ while t:
     t -= 1
     print("NOT ALLOWED")
     
-f = open("c:\\windows\\system32\\drivers\\etc\\hosts","w")
+f = open("directory\\of\\your\\file","w")
 f.write(" ")
 f.close()
-playsound('C:/Users/donce/Downloads/alarm.mp3')
+playsound('directory\\of\\your\\file.mp3')
 print(":)")
